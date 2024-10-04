@@ -2,7 +2,7 @@
 
 - [ ] JavaScript
 - [ ] Express (Web Framework)
-- [ ] Biome (formatter, linter)
+- [ ] Biome (Formatter, Linter)
 - [ ] REST API
 - [ ] Postgres with Docker
 - [ ] Prisma (ORM)
