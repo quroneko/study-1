@@ -8,6 +8,7 @@
 - REST API
 - PostgreSQL with Docker
 - Prisma (ORM)
+- Auth (JWT)
 - Zod (Validation)
 - Jest, Supertest (Testing)
 - winston (Logger)
