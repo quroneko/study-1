@@ -4,7 +4,7 @@
 - [ ] Express (Web Framework)
 - [ ] Biome (Formatter, Linter)
 - [ ] REST API
-- [ ] Postgres with Docker
+- [ ] PostgreSQL with Docker
 - [ ] Prisma (ORM)
 - [ ] Zod (Validation)
 - [ ] Jest, Supertest (Testing)
