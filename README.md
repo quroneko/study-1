@@ -2,12 +2,12 @@
 
 # 🤖 Technology Stack
 
-- JavaScript
+- TypeScript
 - Express (Web Framework)
 - Biome (Formatter, Linter)
 - REST API
-- PostgreSQL with Docker
 - Prisma (ORM)
+- SQLite
 - Auth (JWT)
 - Zod (Validation)
 - Jest, Supertest (Testing)
@@ -15,8 +15,8 @@
 - OpenAPI
 - Dockerization (Docker)
 - CI/CD (Github Actions)
+- PostgreSQL with Docker
 
 ## 🚀 Next...
 
-- TypeScript
 - NestJS (Web Framework)
